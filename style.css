@@ -1,0 +1,24 @@
+.main {
+    background-color: rgb(145, 208, 187);
+    width: 700px;
+}
+body {
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+    color: white
+}
+.pictures {
+    background-color: rgb(60, 102, 142);
+    width: 100%;
+    height: 500px;
+    
+}
+.bottom {
+    width: 100%;
+}
+.end {
+    height: 70px;
+
+}
